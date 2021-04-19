@@ -1,13 +1,4 @@
----
-title: "Sublist3r - TryHackMe"
-author: krishna
-description: "Walkthrough of Sublist3r from TryHackMe"
-date: 2020-10-19 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [web, tool]
----
-
-**[Sublist3r from TryHackMe](https://tryhackme.com/room/rpsublist3r)**
+# [Sublist3r from TryHackMe](https://tryhackme.com/room/rpsublist3r)
 
 ## Task 1 - Intro
 

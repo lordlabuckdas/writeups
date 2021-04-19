@@ -1,13 +1,4 @@
----
-title: "Shodan.io - TryHackMe"
-author: krishna
-description: "Walkthrough of Shodan.io from TryHackMe"
-date: 2020-10-20 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [web, tool]
----
-
-**[Shodan.io](https://tryhackme.com/room/shodan)**
+# [Shodan.io](https://tryhackme.com/room/shodan)
 
 bro, i'm so stupid :cry:, how do i get past this memory. i did a `mv linuxprivesc.md shodan.md` instead of transferring to another directory as `mv linuxprivesc.md shodan.md folder_to_move_to/`. how do i stop regretting this?
 

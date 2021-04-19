@@ -1,13 +1,4 @@
----
-title: "Web Fundamentals - TryHackMe"
-author: krishna
-description: "Walkthrough of Web Fundamentals from TryHackMe"
-date: 2020-10-15 22:22:22 +0530
-categories: [writeups, tryhackme]
-tags: [web]
----
-
-**[Web Fundamentals from TryHackMe](https://tryhackme.com/room/webfundamentals)**
+# [Web Fundamentals from TryHackMe](https://tryhackme.com/room/webfundamentals)
 
 ## Task 1 - Introduction and Objectives
 

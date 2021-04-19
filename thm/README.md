@@ -1,21 +1,21 @@
 # TryHackMe Writeups
 
-* [Agent Sudo](https://tryhackme.com/room/https://tryhackme.com/room/agentsudoctf) - [writeup](agentsudo.md)
-* [Basic Pentesting](https://tryhackme.com/room/basicpentesting) - [writeup](basicpentest.md)
-* [CC: Pentesting](https://tryhackme.com/room/ccpentesting) - [writeup](ccpentesting.md)
-* [Crack the Hash](https://tryhackme.com/room/crackthehash) - [writeup](crackthehash.md)
-* [Google Dorking](https://tryhackme.com/room/googledorking) - [writeup](gdork.md)
-* [Hydra](https://tryhackme.com/room/hydra) - [writeup](hydra.md)
-* [Introductory Researching](https://tryhackme.com/room/introtoresearch) - [writeup](introresearch.md)
-* [Learn Linux](https://tryhackme.com/room/zthlinux) - [writeup](learnlinux.md)
-* [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) - [writeup](linuxprivesc.md)
-* [Metasploit](https://tryhackme.com/room/rpmetasploit) - [writeup](metasploit.md)
-* [Nmap](https://tryhackme.com/room/rpnmap) - [writeup](nmap.md)
-* [OhSINT](https://tryhackme.com/room/ohsint) - [writeup](ohsint.md)
-* [Pickle Rick](https://tryhackme.com/room/picklerick) - [writeup](picklerick.md)
-* [Shodan](https://tryhackme.com/room/shodan) - [writeup](shodan.md)
-* [Simple CTF](https://tryhackme.com/room/easyctf) - [writeup](simplectf.md)
-* [Sublist3r](https://tryhackme.com/room/rpsublist3r) - [writeup](sublister.md)
-* [Vulnversity](https://tryhackme.com/room/vulnversity) - [writeup](vulnversity.md)
-* [Web Fundamentals](https://tryhackme.com/room/webfundamentals) - [writeup](webfund.md)
-* [Web Scanning](https://tryhackme.com/room/rpwebscanning) - [writeup](webscanning.md)
+* [Agent Sudo](https://tryhackme.com/room/https://tryhackme.com/room/agentsudoctf) - [[WRITEUP](agentsudo.md)]
+* [Basic Pentesting](https://tryhackme.com/room/basicpentesting) - [[WRITEUP](basicpentest.md)]
+* [CC: Pentesting](https://tryhackme.com/room/ccpentesting) - [[WRITEUP](ccpentesting.md)]
+* [Crack the Hash](https://tryhackme.com/room/crackthehash) - [[WRITEUP](crackthehash.md)]
+* [Google Dorking](https://tryhackme.com/room/googledorking) - [[WRITEUP](gdork.md)]
+* [Hydra](https://tryhackme.com/room/hydra) - [[WRITEUP](hydra.md)]
+* [Introductory Researching](https://tryhackme.com/room/introtoresearch) - [[WRITEUP](introresearch.md)]
+* [Learn Linux](https://tryhackme.com/room/zthlinux) - [[WRITEUP](learnlinux.md)]
+* [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc) - [[WRITEUP](linuxprivesc.md)]
+* [Metasploit](https://tryhackme.com/room/rpmetasploit) - [[WRITEUP](metasploit.md)]
+* [Nmap](https://tryhackme.com/room/rpnmap) - [[WRITEUP](nmap.md)]
+* [OhSINT](https://tryhackme.com/room/ohsint) - [[WRITEUP](ohsint.md)]
+* [Pickle Rick](https://tryhackme.com/room/picklerick) - [[WRITEUP](picklerick.md)]
+* [Shodan](https://tryhackme.com/room/shodan) - [[WRITEUP](shodan.md)]
+* [Simple CTF](https://tryhackme.com/room/easyctf) - [[WRITEUP](simplectf.md)]
+* [Sublist3r](https://tryhackme.com/room/rpsublist3r) - [[WRITEUP](sublister.md)]
+* [Vulnversity](https://tryhackme.com/room/vulnversity) - [[WRITEUP](vulnversity.md)]
+* [Web Fundamentals](https://tryhackme.com/room/webfundamentals) - [[WRITEUP](webfund.md)]
+* [Web Scanning](https://tryhackme.com/room/rpwebscanning) - [[WRITEUP](webscanning.md)]

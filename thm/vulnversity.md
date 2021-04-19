@@ -1,13 +1,4 @@
----
-title: "Vulnversity - TryHackMe"
-author: krishna
-description: "Walkthrough of Vulnversity from TryHackMe"
-date: 2020-10-16 22:22:22 +0530
-categories: [writeups, tryhackme]
-tags: [privesc, pentest, ctf]
----
-
-**[Vulnversity from TryHackMe](https://tryhackme.com/room/vulnversity)**
+# [Vulnversity from TryHackMe](https://tryhackme.com/room/vulnversity)
 
 ## Task 1 - Deploy the machine
 

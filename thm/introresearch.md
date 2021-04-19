@@ -1,13 +1,4 @@
----
-title: "Introductory Researching - TryHackMe"
-author: krishna
-description: "Walkthrough of Introductory Researching from TryHackMe"
-date: 2020-10-17 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [osint]
----
-
-**[Introductory Researching from TryHackMe](https://tryhackme.com/room/introtoresearch)**
+# [Introductory Researching from TryHackMe](https://tryhackme.com/room/introtoresearch)
 
 ## Task 1 - Introduction
 

@@ -1,13 +1,4 @@
----
-title: "Pickle Rick - TryHackMe"
-author: krishna
-description: "Walkthrough of Pickle Rick from TryHackMe"
-date: 2020-10-21 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [web, linux, privesc, ctf]
----
-
-**[Pickle Rick from TryHackMe](https://tryhackme.com/room/picklerick)**
+# [Pickle Rick from TryHackMe](https://tryhackme.com/room/picklerick)
 
 the description says that there is a web server up and running, so we go to the IP
 

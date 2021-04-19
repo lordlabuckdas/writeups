@@ -1,13 +1,4 @@
----
-title: "OhSINT - TryHackMe"
-author: krishna
-description: "Walkthrough of OhSINT from TryHackMe"
-date: 2020-10-19 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [osint]
----
-
-**[OhSINT from TryHackMe](https://tryhackme.com/room/ohsint)**
+# [OhSINT from TryHackMe](https://tryhackme.com/room/ohsint)
 
 ## Task 1 - OhSINT
 

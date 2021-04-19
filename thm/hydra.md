@@ -1,13 +1,4 @@
----
-title: "Hydra - TryHackMe"
-author: krishna
-description: "Walkthrough of Hydra from TryHackMe"
-date: 2020-10-16 22:22:22 +0530
-categories: [writeups, tryhackme]
-tags: [tool]
----
-
-**[Hydra from TryHackMe](https://tryhackme.com/room/hydra)**
+# [Hydra from TryHackMe](https://tryhackme.com/room/hydra)
 
 ## Task 1 - Hydra Introduction
 

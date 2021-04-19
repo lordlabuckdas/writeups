@@ -1,13 +1,4 @@
----
-title: "Agent Sudo - TryHackMe"
-author: krishna
-description: "Walkthrough of Agent Sudo CTF from TryHackMe"
-date: 2020-12-05 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [ctf, privesc, steg, linux, osint]
----
-
-**[Agent Sudo from TryHackMe](https://tryhackme.com/room/agentsudoctf)**
+# [Agent Sudo from TryHackMe](https://tryhackme.com/room/agentsudoctf)
 
 ## Task 1 - Author note
 

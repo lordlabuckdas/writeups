@@ -1,13 +1,4 @@
----
-title: "Crack the Hash - TryHackMe"
-author: krishna
-description: "Walkthrough of Crack the Hash from TryHackMe"
-date: 2020-10-23 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [crypto]
----
-
-**[Crack the Hash from TryHackMe](https://tryhackme.com/room/crackthehash)**
+# [Crack the Hash from TryHackMe](https://tryhackme.com/room/crackthehash)
 
 store the hash of each question in a text file using `echo -n '<hash>' > <hash_file>` (use quotes because some hashes contain **$** which messes up the data going to the file)
 

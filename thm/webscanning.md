@@ -1,13 +1,4 @@
----
-title: "Web Scanning - TryHackMe"
-author: krishna
-description: "Walkthrough of Web Scanning from TryHackMe"
-date: 2020-10-19 00:00:00 +0530
-categories: [writeups, tryhackme]
-tags: [web, tool]
----
-
-**[Web Scanning from TryHackMe](https://tryhackme.com/room/rpwebscanning)**
+# [Web Scanning from TryHackMe](https://tryhackme.com/room/rpwebscanning)
 
 ## Task 1 - Pull the lever, Kronk!
 
