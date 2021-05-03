@@ -1,0 +1,19 @@
+{
+  "editor.minimap.enabled": true,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "files.defaultLanguage": "markdown",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules": true
+  },
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.openDailyNote.titleFormat": "yyyy-mm-dd'\n\n* \n\n## checklist\n\n* [ ] '",
+  "markdown.preview.breaks": true,
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "window.autoDetectColorScheme": true,
+}

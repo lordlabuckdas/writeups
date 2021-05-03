@@ -46,7 +46,7 @@ this is the reason by the `x` between the 2nd and 3rd colons (:) in `/etc/passwd
 
 ![change root hash in passwd](/assets/thm/linuxprivesc/linuxprivesc5.png)
 
-## Task 6 - Sudo - Shell Escape Sequences 
+## Task 6 - Sudo - Shell Escape Sequences
 
 running `sudo -l` we get to see the privileges of the current user,
 
